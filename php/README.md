@@ -1,7 +1,7 @@
 # DOCKER CONTAINER PHP && MYSQL
 
--PHP 7.2
--MYSQL 5.7
+- PHP 7.2
+- MYSQL 5.7
 
 # Prerequisites
 
